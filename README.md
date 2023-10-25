@@ -1,7 +1,7 @@
 # Submission Dicoding "Proyek Akhir: Klasifikasi Gambar"
 
 ## Preview
-![Klasifikasi Gambar]()
+![Klasifikasi Gambar](https://github.com/ariniamsr/-rock-paper-scissors/blob/f5fa6fa2c86f604529fcb2b711fd09ee49979e97/Untitled.png)
 
 ## Project Klasifikasi Gambar
 
