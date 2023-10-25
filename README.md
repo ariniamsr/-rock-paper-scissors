@@ -5,7 +5,7 @@
 
 ## Project Klasifikasi Gambar
 
-Repository ini berisi proyek  Klasifikasi Gambar yang saya kerjakan menggunakan Tensor Flow. <img src="https://w7.pngwing.com/pngs/171/176/png-transparent-tensorflow-artificial-intelligence-brand-logo-learning-flow-description-angle-text-orange.png="Tensor Flow"></img>
+Repository ini berisi proyek  Klasifikasi Gambar yang saya kerjakan menggunakan **Tensor Flow** <img src="https://w7.pngwing.com/pngs/171/176/png-transparent-tensorflow-artificial-intelligence-brand-logo-learning-flow-description-angle-text-orange.png" alt="Tensor Flow"></img>
 
 ## Deskripsi
 
