@@ -5,7 +5,7 @@
 
 ## Project Klasifikasi Gambar
 
-Repository ini berisi proyek  Klasifikasi Gambar yang saya kerjakan menggunakan **Tensor Flow** <img src="https://w7.pngwing.com/pngs/171/176/png-transparent-tensorflow-artificial-intelligence-brand-logo-learning-flow-description-angle-text-orange.png" alt="Tensor Flow"></img>
+Repository ini berisi proyek  Klasifikasi Gambar yang saya kerjakan menggunakan **Tensor Flow** <img src="https://www.gstatic.com/devrel-devsite/prod/v75b36477a7a44d608aad493a7965a008a500a66ae23f1902a624b5ad855ffcce/tensorflow/images/logo.png" alt="Tensor Flow"></img>
 
 ## Deskripsi
 
@@ -13,7 +13,7 @@ Proyek ini berupa program jaringan saraf tiruan menggunakan TensorFlow. Tujuan a
 
 ## Struktur Direktori
 
-- **/Klasifikasi_Gambar**: File ini yang digunakan untuk mengenali bentuk tangan yang membentuk gunting, batu, atau kertas..
+- **/Klasifikasi_Gambar**: File ini yang digunakan untuk mengenali bentuk tangan yang membentuk gunting, batu, atau kertas.
 
 ## Instalasi
 
