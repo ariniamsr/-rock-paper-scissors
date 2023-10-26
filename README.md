@@ -25,3 +25,8 @@ Proyek ini berupa program jaringan saraf tiruan menggunakan TensorFlow. Tujuan a
 
 ## Kontribusi
 Anda dapat berkontribusi pada proyek ini dengan melakukan pull request. Pastikan untuk menjelaskan perubahan yang Anda usulkan secara jelas dan menyeluruh.
+
+
+## Review
+berikut merupakan penilaian dari Dicoding
+![Klasifikasi Gambar](https://github.com/ariniamsr/-rock-paper-scissors/blob/main/Review.png)
