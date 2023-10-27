@@ -13,7 +13,7 @@ Proyek ini berupa program jaringan saraf tiruan menggunakan TensorFlow. Tujuan a
 
 ## Struktur Direktori
 
-- **/Klasifikasi_Gambar**: File ini yang digunakan untuk mengenali bentuk tangan yang membentuk gunting, batu, atau kertas.
+- **/Submission**: File ini yang digunakan untuk mengenali bentuk tangan yang membentuk gunting, batu, atau kertas.
 
 ## Instalasi
 
